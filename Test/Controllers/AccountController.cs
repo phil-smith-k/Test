@@ -17,6 +17,7 @@ using Test.Models;
 using Test.Providers;
 using Test.Results;
 
+// This is a comment
 namespace Test.Controllers
 {
     [Authorize]
